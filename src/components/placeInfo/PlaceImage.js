@@ -9,8 +9,8 @@ const PlaceImage=()=>{
     <PlaceTags></PlaceTags>
     <PlaceTags></PlaceTags>
     <PlaceTags></PlaceTags>
+    <PlaceTags></PlaceTags>
     
-
     </div>
     </div>
 

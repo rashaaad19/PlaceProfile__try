@@ -44,3 +44,10 @@
 .review__button:hover{
     cursor: pointer;
 }
+
+
+@media (max-width:900px) {
+    #info__container{
+        margin: 0.5rem;
+    }
+    }

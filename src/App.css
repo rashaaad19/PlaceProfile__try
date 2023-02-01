@@ -1,6 +1,9 @@
+#page__container{
+    background-color: #ECF6F9;
+}
 #first__part{
+    margin: 1rem;
 display: flex;
 align-items: center;
-margin: 1.5rem;
 justify-content: space-around;
 }

@@ -5,8 +5,8 @@ import PlaceImage from './components/placeInfo/PlaceImage';
 function App() {
   return (
     <>
-  <Navbar></Navbar>
   <div id='page__container'>
+  <Navbar></Navbar>
     <div id='first__part'>
     <PlaceCard></PlaceCard>
     <PlaceImage></PlaceImage>

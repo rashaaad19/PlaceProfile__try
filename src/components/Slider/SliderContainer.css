@@ -1,0 +1,17 @@
+.slick-slider{
+    width: 90%;
+    margin: 0 auto;
+}
+.slick-next{
+    right: -40px;
+}
+.slick-prev{
+    left: -40px;
+}
+.slick-arrow::before{
+color:black;
+}
+.card{
+    width: 90% !important;
+    background-color: white !important;
+}

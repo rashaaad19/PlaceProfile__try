@@ -7,3 +7,7 @@
     margin: 0.5rem;
     margin-left: 1.5rem;
 }
+#image__tag:hover{
+    cursor: pointer;
+}
+

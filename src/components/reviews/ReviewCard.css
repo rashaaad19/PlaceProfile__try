@@ -13,7 +13,8 @@
 .likeLogo{
     margin: 0.5rem;
     font-size: 22px;
-    color: #597a7678;
+    /* color: #597a7678; */
+    color: #072c3da8;
 }
 .likeLogo:hover{
     cursor: pointer;
@@ -24,12 +25,12 @@
 #reviewCard__username{
     font-weight: bold;
     font-size: 1.2rem;
-    color: #3b504d;
+    color: #072c3d;
 }
 #reviewCard__review{
-    color: #3b504d;
+    color: #072c3d;
     font-weight: 450;
 }
 .reviewCard__userscore{
-    color:#3b504d
+    color:#072c3d
 }

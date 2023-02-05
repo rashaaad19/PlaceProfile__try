@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/footer/Footer';
 import Navbar from './components/Navbar';
 import PlaceCard from './components/placeInfo/PlaceCard';
 import PlaceImage from './components/placeInfo/PlaceImage';
@@ -26,6 +27,7 @@ function App() {
     <ReviewCard></ReviewCard>
     <ReviewCardButton></ReviewCardButton>
     </div>
+    <Footer></Footer>
   </div>
     </>
   );

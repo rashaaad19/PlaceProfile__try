@@ -6,6 +6,7 @@
   }
   .card__top p,.star__class{
 padding: 0.5rem;
+color: #072c3d;
   }
   .city__style {
     font-weight: bold;
@@ -25,7 +26,7 @@ padding: 0.5rem;
     }
  
   .card{
-    border: 1px solid #597A76;
+    border: 1px solid #3b504d;
     background-color: #ecfafe;
     border-radius: 30px;
 

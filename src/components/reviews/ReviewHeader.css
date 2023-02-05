@@ -5,17 +5,18 @@
     justify-content: space-between;
 }
 #peopleReviews{
-    color: #597A76;
+    color: #072c3d;    ;
     font-weight: bold;
     font-size: 20px;
 }
 #reviewNum{
-    color: #597A76;
+    color: #072c3d9e;
     font-size: 20px;
     margin-right: 1rem;
 }
 .reviewSec__star{
-    color: #597A76;
+    color: #072c3d
+    ;
 }
 .secPart{
     display: flex;

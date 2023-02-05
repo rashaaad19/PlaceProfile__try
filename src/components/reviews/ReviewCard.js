@@ -1,6 +1,5 @@
 import { AiFillDislike, AiFillLike, AiFillStar } from 'react-icons/ai'
 import './ReviewCard.css'
-import ReviewCardButton from './ReviewCardButton'
 const ReviewCard=()=>{
     return<>
     <div className='reviewCard__container'>

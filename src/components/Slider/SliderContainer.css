@@ -15,3 +15,10 @@ color:black;
     width: 90% !important;
     background-color: white !important;
 }
+.sliderHeader__container p{
+    color: #597A76;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+}

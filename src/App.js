@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import PlaceCard from './components/placeInfo/PlaceCard';
 import PlaceImage from './components/placeInfo/PlaceImage';
+import ReviewHeader from './components/reviews/ReviewHeader';
 import SliderContainer from './components/Slider/SliderContainer';
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
     </div>
     <div id='second__part'>
     <SliderContainer></SliderContainer>
+    </div>
+    <div id='third__part'>
+    <ReviewHeader></ReviewHeader>
     </div>
   </div>
     </>

@@ -62,8 +62,8 @@ return <>
               <img src={item.src} alt={item.title}></img>
               <div className="image__content">
               <p className="city__style">{item.city}</p>
-              <p id="distance">{item.distance}</p>
-              </div>
+                <p id="distance">{item.distance}</p>
+            
               <div className="star__class">
               <AiFillStar ></AiFillStar>
               <AiFillStar ></AiFillStar>
@@ -71,6 +71,8 @@ return <>
               <AiOutlineStar ></AiOutlineStar>
               <AiOutlineStar ></AiOutlineStar>
               </div>
+              </div>
+              
             </div>
 
           </div>

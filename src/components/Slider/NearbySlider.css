@@ -10,6 +10,7 @@ padding: 0.5rem;
   .city__style {
     font-weight: bold;
     color:#597A76;
+    flex: 1 1 150px;
 
   }
     .card__top{
@@ -38,4 +39,6 @@ padding: 0.5rem;
     justify-content: space-between;
     flex-basis: 50%;
     flex-wrap: wrap;
+    align-items: center;
+    margin: 0.1rem;
   }

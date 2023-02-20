@@ -9,7 +9,7 @@
 }
 .footFirst__column h3,.footSecond__column h3{
     /* margin-bottom: 1rem; */
-    color: #3b504d;
+    color: #072c3d;
 }
 
 .foot__container p {
@@ -23,7 +23,7 @@
 .footerFA{
     text-align: center;
     font-size:25px;
-    color: #597A76;
+    color: #072c3d;
 }
 .footerFA > *{
     margin-left: 1rem;

@@ -6,7 +6,6 @@
     top: 0;
     background-color: #ECF6F9;
     z-index: 1;
-    height: 3rem;
 }
 #navbarLogo{
     width: 3rem;
@@ -36,7 +35,7 @@
 }
 #signUp{
     color:#ECF6F9;
-    background-color: #3b504d;
+    background-color: #072c3d;
     padding:0.3rem;
     border-radius: 1.813rem;
     margin-left: 2rem;
